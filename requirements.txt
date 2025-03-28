@@ -1,0 +1,2 @@
+ttkbootsstrap
+|->pip install ttkbootsrap 
